@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{C56C2CB4-D3D6-45AA-B5BC-B31EDC1E7DF6}|Default">
+  <MonoDevelop.Ide.ItemProperties.MayinTarlasi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
